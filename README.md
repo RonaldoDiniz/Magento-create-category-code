@@ -1,5 +1,5 @@
 # Magento-create-category-code
-Cria categorias em loge via codigo
+Cria categorias em loja via codigo
 
 Informe a categoria raiz do seu menu e as categorias a serem incluidas
 
